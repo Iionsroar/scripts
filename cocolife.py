@@ -44,9 +44,6 @@ def print_dental_files():
         pprint.pprint(files)
         print()
 
-  
-
-
 def print_databases():
   '''
   Search for database/ xlsx files or the like
@@ -61,4 +58,3 @@ def print_databases():
     pprint.pprint(ignore_irrelevant(get_links(soup)))
     print()
     
-print_dental_files()
