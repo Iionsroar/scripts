@@ -1,5 +1,8 @@
 # python3.12
 
+# damn i spent quite a bit on this one and it isnt even for personal effectiveness
+# i shouldve taken some time to think about whether to push through or not
+
 from bs4 import BeautifulSoup
 import requests
 import pprint
